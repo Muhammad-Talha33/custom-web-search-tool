@@ -35,7 +35,7 @@ It also supports **session-based memory** so the agent can remember previous con
 
 ---
 
-## 📸 Sample: Logs / Demonstration  
+## Logs / Demonstration  
 
 ### Figure 1: Messi Query  
 ![Log Image](/Logs/Log1.PNG)
